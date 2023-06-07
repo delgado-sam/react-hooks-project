@@ -1,6 +1,9 @@
 # react-hooks-project
 
-clone this
-run npm i
-run npm run dev
+1. clone this
+
+2. run `npm i`
+
+3. run `npm run dev`
+
 The end
